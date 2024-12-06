@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Farmacias Olivo</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Farmacias Olivo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>pinas@farmaciasolivo.com (Farmacias Olivo)</managingEditor>
+    <webMaster>pinas@farmaciasolivo.com (Farmacias Olivo)</webMaster>
+    <copyright>olivo hospital</copyright>
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hipertensión Arterial</title>
+      <link>http://localhost:1313/posts/hta/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <author>pinas@farmaciasolivo.com (Farmacias Olivo)</author>
+      <guid>http://localhost:1313/posts/hta/</guid>
+      <description>This is my first post on my site</description>
+      
+    </item>
+    
+  </channel>
+</rss>

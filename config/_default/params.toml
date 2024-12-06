@@ -37,7 +37,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 [footer]
   showMenu = true
   showCopyright = true
-  showThemeAttribution = true
+  showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
 
@@ -80,7 +80,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showTaxonomies = false
   showAuthorsBadges = false
   showWordCount = false
-  sharingLinks = [ "twitter", "facebook", "email", "whatsapp", "instagram"]
+  sharingLinks = [ "twitter", "facebook", "email", "whatsapp"]
   showZenMode = false
 
 [list]

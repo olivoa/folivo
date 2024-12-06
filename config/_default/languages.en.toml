@@ -12,14 +12,14 @@ title = "Farmacias Olivo"
   logo = "img/o.png"
   # secondaryLogo = "img/secondary-logo.png"
   #description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+   copyright = "olivo hospital"
 
  [params.author]
    name = "Farmacias Olivo"
    email = "pinas@farmaciasolivo.com"
 #   image = "img/olivofarmacia.png"
    imageQuality = 96
-   headline = "Somos tu apoyo para la salud"
+   headline = "Somos tu apoyo para cuidar tu salud"
    bio = "bio"
    links = [
 #     { email = "mailto:hello@your_domain.com" },
@@ -32,14 +32,14 @@ title = "Farmacias Olivo"
 #     { dev = "https://dev.to/username" },
 #     { discord = "https://discord.gg/invitecode" },
 #     { dribbble = "https://dribbble.com/username" },
-     { facebook = "https://facebook.com/farmaciasolivo" },
+     { facebook = "https://www.facebook.com/profile.php?id=61560886072959&mibextid=ZbWKwL" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
 #     { github = "https://github.com/username" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
-     { instagram = "https://instagram.com/farmaciasolivo" },
+     { instagram = "https://instagram.com/olivofarmacia" },
 #     { itch-io = "https://username.itch.io" },
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
@@ -65,9 +65,9 @@ title = "Farmacias Olivo"
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
 #     { twitter = "https://twitter.com/username" },
-     { x-twitter = "https://x.com/farmaciasolivo" },
-     { whatsapp = "https://wa.me/phone-number" },
-     { youtube = "https://youtube.com/farmaciasolivo" },
+     { x-twitter = "https://x.com/olivofarmacia" },
+     { whatsapp = "https://wa.me/593959045300" },
+     { youtube = "https://youtube.com/olivofarmacia" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
    ]

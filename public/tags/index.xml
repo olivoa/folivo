@@ -8,8 +8,18 @@
     <language>en</language>
     <managingEditor>pinas@farmaciasolivo.com (Farmacias Olivo)</managingEditor>
     <webMaster>pinas@farmaciasolivo.com (Farmacias Olivo)</webMaster>
-    <copyright>© 2024 Farmacias Olivo</copyright>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>olivo hospital</copyright>
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HTA</title>
+      <link>http://localhost:1313/tags/hta/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <author>pinas@farmaciasolivo.com (Farmacias Olivo)</author>
+      <guid>http://localhost:1313/tags/hta/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
